@@ -10,17 +10,17 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'SHUBHAM PATIL',
+  subtitle: 'I am the UI-DEVELOPER.',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  img: 'shubham.jpg',
+  paragraphOne: 'I am a web developer from Karnataka, India and currently living in Belgaum,',
+  paragraphTwo: 'I enjoy building everyting from small business sites to rich interactive web apps.',
+  paragraphThree: 'If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me here.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
